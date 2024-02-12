@@ -1,0 +1,19 @@
+1. What are 3-5 (or more) commands that you can use on terminal and what do they do? What language is your computer terminal in?
+The terminal is in Bash
+Cd will move me into a new directory
+Ls will show me the contents of the directory that I am in
+Pwd will show me the directory I am in
+Clear will clear my terminal screen
+
+2. Do you have pets? What kind?
+I have a German Shepherd/Husky mix named Bourbon and two cats named Bigglesworth and Salem. 
+
+3. If you run across an error, what would your first course of action be?
+Look at the error description and try to figure out what type of error it was. Then I would look for that location of the error and try and amend it. 
+
+4. Funniest thing that happened to you in high school.
+When I took part in a beauty pageant at my high school for the senior guys and watching all of us do a lip sync battle. (I won)
+
+5. What is a python script? (Keep it simple)
+A python script is just a text file that the computer can recognize as code and do something based off it. 
+
