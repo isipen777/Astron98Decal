@@ -1,0 +1,6 @@
+#Rotating Digits
+def rotate_digits(n):
+    first = n % 10
+    last = n // 10
+    rotated_digits = str(first) + str(last)
+    return rotated_digits
