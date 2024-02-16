@@ -1,0 +1,31 @@
+#Minimum and Maximum with Loops
+def min_for(list):
+    min = float('inf')
+    for num in list:
+        if num < min:
+            min = num
+    return min
+
+def max_for(list):
+    max = float('-inf')
+    for num in list:
+        if num > max:
+            max = num
+    return max
+
+def min_while(list):
+    i = 0
+    min = float('inf')
+    while i < len(list):
+        if list[i] < min:
+            min = list[i]
+        i = i + 1
+    return min
+
+def max_while(list):
+    i = 0
+    max = float('-inf')
+    while i < len(list): 
+        if list[i] > max:
+            max = list[i]
+    return max
