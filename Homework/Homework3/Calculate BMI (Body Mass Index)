@@ -1,0 +1,4 @@
+#Calculate BMI
+def calculate_bmi(weight , height):
+    bmi = (weight)/(height*height)
+    return bmi
