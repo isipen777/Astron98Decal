@@ -1,0 +1,8 @@
+#Vowels
+def count_vowels(word):
+    vowel = ["a","e","i","o","u","A","E","I","O","U"]
+    vowel_count = 0
+    for char in word:
+        if char in vowel:
+            vowel_count = vowel_count + 1
+    return vowel_count
