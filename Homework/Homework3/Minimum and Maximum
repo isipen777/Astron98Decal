@@ -1,0 +1,5 @@
+#Minimum and Maximum
+def min_max(list):
+    mini = min(list)
+    maxi = max(list)
+    return [mini , maxi]
