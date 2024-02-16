@@ -1,0 +1,8 @@
+#Digital Root
+def digital_root(integer):
+    answer = 0
+    while integer >= 1:
+        digit = integer % 10
+        answer = answer + digit
+        integer = integer // 10
+    return answer
